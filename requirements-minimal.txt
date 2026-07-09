@@ -1,0 +1,14 @@
+jupyter
+matplotlib
+numpy
+pandas
+pillow
+scikit-learn
+scipy
+seaborn
+torch
+torchvision
+torchaudio
+tqdm
+transformers
+ultralytics
