@@ -1,0 +1,15 @@
+.claude/
+.vscode/
+.git_nested_backup/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+data/
+*.pth
+*.pt
+*.ckpt
+*.mdl
+*.onnx
+runs/
+outputs/
+checkpoints/
